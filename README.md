@@ -1,3 +1,4 @@
+![alt text](https://github.com/ak1rahunt3r/multi-network-wallet-checker/blob/main/screen.png?raw=true)
 
 ## Installation
 1. [Download](https://nodejs.org/en/download/current) latest NodeJS version
