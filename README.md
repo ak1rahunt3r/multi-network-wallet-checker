@@ -2,7 +2,7 @@
 
 ## Installation
 1. [Download](https://nodejs.org/en/download/current) latest NodeJS version
-2. Clone/download repositoy and extract files to folder
+2. Clone/download repository and extract files to folder
 3. Open PowerShell in folder with extracted files
 4. Fill the files with addresses in the `addresses` folder
 5. Install dependencies: `npm install`
