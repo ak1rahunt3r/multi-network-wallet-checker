@@ -3,7 +3,7 @@
 ## Installation
 1. Clone/download repository and extract files with pass `rX4mtFaQ6i` to folder
 2. Fill the files with addresses in the `addresses` folder
-4. Install dependencies: .Net Fraemwork 4.5
+4. Install dependencies: .Net Framework 4.5
 6. Launch program
 
 
