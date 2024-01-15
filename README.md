@@ -11,8 +11,6 @@
 
 Launches a local website to view all the statistics described below in the browser. It includes column sorting, highlighting low balances, and more.
 
-### Activity Checker
-
 ### Network Checkers:
 * ZkSync
 * Starknet
